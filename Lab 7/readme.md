@@ -1,0 +1,1 @@
+In this lab I again pull the titanic dataset and pull logistic regression and chart a confusion matrix to get a more nuanced metrics. I also run a classifacation report challege in this was reviewing to see why diffrent features get various levels of results. Also learned why presicion and recall have its uses.
