@@ -1,0 +1,1 @@
+In this I look at different software to code and create a jupyter notebook. I install many useful tools like pandas numpy matplotlib scikit-learn.  In this lab I pull the Iris dataset and do basic exploration of the data pulling some visuals and getting stats to review.
