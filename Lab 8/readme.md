@@ -1,0 +1,2 @@
+A README.md file that explains what you did in that lab. What did you learn? What challenges did you face?
+In this lab I review overfitting**, underfitting, and the bias-variance tradeoff. I make a chart with syntetic data that shows noise and review diffrent model complexies. The visual show how overfitting and underfitting can impact and change our results. The challege was learning how to reconize each one.
