@@ -1,2 +1,0 @@
-# ITAI_ML_FirstRepo_LadyArredondo
-Class
