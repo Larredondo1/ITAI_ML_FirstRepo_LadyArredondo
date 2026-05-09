@@ -1,0 +1,2 @@
+A README.md file that explains what you did in that lab. What did you learn? What challenges did you face?
+In this Lab I used linear regression using the titanic dataset Features are tested for the fare prediction, Then later used losgistic regression to help classify wheter a person survived using age sex and class. This was for practice in using the diffrent regression models and when to use them. The challege on this was the understanding the mean squared and coef.
