@@ -1,0 +1,2 @@
+A README.md file that explains what you did in that lab. What did you learn? What challenges did you face?
+In this lab I review the titanic dataset, review null data and add it back in using the median. Then I use encoding to help with classification. Also used feature scaling to help.
