@@ -1,0 +1,26 @@
+Requirements 
+
+
+numpy in ./.venv/lib/python3.12/site-packages (2.4.4)
+pandas in ./.venv/lib/python3.12/site-packages (3.0.2)
+scikit-learn in ./.venv/lib/python3.12/site-packages (1.8.0)
+matplotlib in ./.venv/lib/python3.12/site-packages (3.10.9)
+seaborn in ./.venv/lib/python3.12/site-packages (0.13.2)
+openpyxl in ./.venv/lib/python3.12/site-packages (3.1.5)
+kagglehub-1.0.1-py3-none-any.whl.metadata (40 kB)
+ipywidgets-8.1.8-py3-none-any.whl.metadata (2.4 kB)
+jupyterlab-4.5.7-py3-none-any.whl.metadata (16 kB)
+notebook-7.5.6-py3-none-any.whl.metadata (10 kB)
+python-dateutil>=2.8.2 in ./.venv/lib/python3.12/site-packages (from pandas) (2.9.0.post0)
+scipy>=1.10.0 in ./.venv/lib/python3.12/site-packages (from scikit-learn) (1.17.1)
+joblib>=1.3.0 in ./.venv/lib/python3.12/site-packages (from scikit-learn) (1.5.3)
+threadpoolctl>=3.2.0 in ./.venv/lib/python3.12/site-packages (from scikit-learn) (3.6.0)
+contourpy>=1.0.1 in ./.venv/lib/python3.12/site-packages (from matplotlib) (1.3.3)
+cycler>=0.10 in ./.venv/lib/python3.12/site-packages (from matplotlib) (0.12.1)
+fonttools>=4.22.0 in ./.venv/lib/python3.12/site-packages (from matplotlib) (4.62.1)
+kiwisolver>=1.3.1 in ./.venv/lib/python3.12/site-packages (from matplotlib) (1.5.0)
+packaging>=20.0 in ./.venv/lib/python3.12/site-packages (from matplotlib) (26.2)
+pillow>=8 in ./.venv/lib/python3.12/site-packages (from matplotlib) (12.2.0)
+pyparsing>=3 in ./.venv/lib/python3.12/site-packages (from matplotlib) (3.3.2)
+...
+Downloading uri_template-1.3.0-py3-none-any.whl (11 kB)
