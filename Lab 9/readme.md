@@ -1,0 +1,1 @@
+In  this Lab I try out ensemble methods using decision tree classifer, random forest and review important features. In my case they had all performed well which was challege but overall trying out the random forest provided more insights.
