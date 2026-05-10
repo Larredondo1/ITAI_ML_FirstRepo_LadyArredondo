@@ -1,0 +1,1 @@
+In this lab I review some of the eihical ramification of using flawed data sets. Some of the challeges I faced was some coding errors. With this lab I was able to see the gap clearly with the false positives for men vs women and how other features could also impact and encorage bias.
