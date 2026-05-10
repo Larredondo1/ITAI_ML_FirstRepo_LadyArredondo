@@ -1,0 +1,1 @@
+In this Lab I review unsupervised learning using K-Means clustering to where the clusters in the syntetic data and also use the elbow method to determine the K to find the point where it changes The differculty with this is knowing exactly when to apply but learning this can help combat overfitting with Mls.
